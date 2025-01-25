@@ -4,6 +4,8 @@ This project contains a C program designed as a **malicious software sample** fo
 
 > **Disclaimer:** This software is intended for academic and research purposes only. Unauthorized use of this code in any malicious activity is strictly prohibited and may be illegal. Use responsibly.
 
+Read my blog post about this repository: [Computer Viruses in Practice: Self-Replication](https://kaishira.com/2025/01/25/computer-viruses-in-practice-self-replication/)
+
 ## Features
 
 - Iterates through all files in the current working directory.
